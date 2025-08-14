@@ -11,7 +11,7 @@ import {
 
 export default async function Page() {
     // const revenue = await fetchRevenue(); porduce carga lenta
-    // const latestInvoices = await fetchLatestInvoices();
+    // const latestInvoices = await fetchLatestInvoices(); produce carga lenta
 
     return (
         <main>
